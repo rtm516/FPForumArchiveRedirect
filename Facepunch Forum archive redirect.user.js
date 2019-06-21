@@ -6,6 +6,7 @@
 // @author       rtm516
 // @match        https://forum.facepunch.com/*
 // @grant        none
+// @updateURL    https://github.com/rtm516/FPForumArchiveRedirect/raw/master/Facepunch%20Forum%20archive%20redirect.user.js
 // ==/UserScript==
 
 (function() {
